@@ -63,11 +63,11 @@ $$\text{CVA} = (1-R) \sum_{i=1}^{n} \text{EE}(t_i)\cdot \left(S(t_{i-1}) - S(t_i
 | Off-market ($K = 2\%$) | Flat PD | 26,835.92 |
 | Off-market ($K = 2\%$) | Exponential survival | 24,812.29 |
 | Off-market ($K = 2\%$) | Time-dependent hazard | 29,243.85 |
-| Off-market ($K = 2\%$) | WWR |  |
+| Off-market ($K = 2\%$) | WWR |  $31{,}000.58$ |
 | Fair rate ($K^*$) | Flat PD | 1,366.99 |
 | Fair rate ($K^*$) | Exponential survival | 1,310.66 |
 | Fair rate ($K^*$) | Time-dependent hazard | 1,740.79 |
-| Fair rate ($K^*$) | WWR |  |
+| Fair rate ($K^*$) | WWR | $1{,}646.21$ |
 
 ---
 
